@@ -57,7 +57,7 @@ npx tsc --init
 ---
 ## Configuração do Banco de Dados
 
-![banco](image.png)
+![banco](src/image.png)
 
 
 
@@ -85,4 +85,4 @@ Nome: Ana, Idade: 13, Série: 8º Ano, Matemática: 8.25, Geografia: 7.87, Hist�
 -----------------------------------------
 Conexão com o banco de dados encerrada.
 ```
-![vs code](image-1.png)
+![vs code](src/image-1.png)
